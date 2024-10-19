@@ -11,6 +11,13 @@ This project implements a real-time crowd detection and counting system using YO
 - Shows total people count in the top left corner of the frame
 - Adjustable confidence threshold for detections
 
+## Preview
+![image](https://github.com/user-attachments/assets/09086bc7-90e3-479c-81db-ace67cfccbbf)
+
+![train_batch2](https://github.com/user-attachments/assets/a9f85346-7d05-493d-8632-70fe0a3d19f9)
+
+
+
 ## Requirements
 
 - Python 3.11
@@ -22,7 +29,7 @@ This project implements a real-time crowd detection and counting system using YO
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yashsuman15/crowd-detection.git
+   git clone [https://github.com/yashsuman15/crowd-detection.git](https://github.com/yashsuman15/crowd-density-model)
    cd crowd-detection
    ```
 
